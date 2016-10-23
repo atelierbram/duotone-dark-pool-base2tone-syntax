@@ -1,0 +1,19 @@
+{
+  "name": "duotone-dark-pool-base2tone-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark DuoTone syntax theme",
+  "keywords": [
+    "dark",
+    "violet",
+    "salmon",
+    "orange",
+    "duotone",
+    "syntax"
+  ],
+  "repository": "https://github.com/atelierbram/duotone-dark-pool-base2tone-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  }
+}
